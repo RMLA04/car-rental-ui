@@ -1,4 +1,4 @@
-#Car-rental-ui
+
 # 🚗 Car Rental Management System
 
 A full-stack database project built using **PostgreSQL**, **Flask**, and **HTML/CSS**, designed to manage car rentals, customers, payments, and reports.
