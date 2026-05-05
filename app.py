@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, redirect
-from car_rental_ui.db import get_connection
+from db import get_connection
 
 app = Flask(__name__)
 
