@@ -180,7 +180,6 @@ The application is publicly accessible online.
 <img width="956" height="474" alt="image" src="https://github.com/user-attachments/assets/8238cc1a-a09b-40df-b81f-fcd25b709cf9" />
 <img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/26a21581-aa35-46eb-9dd8-82aad2ce70b0" />
 <img width="960" height="478" alt="image" src="https://github.com/user-attachments/assets/5dc4054b-0af2-4f3a-8ade-5fa81db9c1e2" />
-<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/ec71eace-888f-418a-9efc-e0f5c0388fdd" />
 <img width="956" height="477" alt="image" src="https://github.com/user-attachments/assets/cfbb6f0f-38fc-462c-b783-82b329236e56" />
 <img width="960" height="479" alt="image" src="https://github.com/user-attachments/assets/82cd35b6-e8f5-4cbc-8a0e-1c51c66d2f53" />
 <img width="960" height="480" alt="image" src="https://github.com/user-attachments/assets/c37f93e1-97c1-4c50-8ca5-ec8e5ee75015" />
