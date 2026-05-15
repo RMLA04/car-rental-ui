@@ -15,6 +15,9 @@ A full-stack database project built using **PostgreSQL**, **Flask**, and **HTML/
 🔗 https://github.com/RMLA04/car-rental-ui
 
 ---
+Note: The project is deployed using the free versions of Render and Supabase.
+Free cloud services may become inactive after periods of inactivity.
+If the application stops working, the service may need to be resumed, restarted, or redeployed from GitHub.
 
 ## 🧾 Project Description
 
